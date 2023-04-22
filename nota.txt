@@ -1,0 +1,14 @@
+1. public menyimpan file ii yang boleh diakses user, dan alamat utama aplikasi kita adalah folder public
+2. app menyimpan folder ii utama, dan x blh diakses user
+
+3 . index.php that exists in public folder akn memanggil file init.php, dan file init.php akn memanggil core/App.php dan controller other important file.
+
+
+
+/1 siapkan database wrapper dulu, baru buat database, then buat controller, dan letakkan view di dalamnya orait
+
+
+
+- if we have been complete the above task, we just folow below step 
+/2 anytime we need to add new features, we need to open the controller tab, model tab, and its view, 
+

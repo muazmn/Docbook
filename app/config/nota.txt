@@ -1,0 +1,1 @@
+config berisi data dari database beruba constanta
